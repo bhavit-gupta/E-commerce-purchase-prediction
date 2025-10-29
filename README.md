@@ -106,5 +106,3 @@ Appendix: Data schema (expected column names and types in `X`)
 - time_of_day: categorical (morning|afternoon|evening|night)
 - referral: categorical (organic|ad|email|social)
 - day_of_week: int (0..6)
-
-This README focuses entirely on the code logic and the behavior of each notebook section. If you want, I can next (a) export a short `TEST_PLAN.md` listing unit and integration tests to add, or (b) produce a minimal `model_manifest.json` template describing how to version and store trained artifacts.
